@@ -1,0 +1,98 @@
+body {
+  background-image: url('https://wallpapercave.com/wp/wp6159197.jpg');
+  padding-bottom: 20px;
+}
+
+#description {
+  background-color: black;
+  padding: 10px;
+}
+
+#main {
+  margin: 0px 120px 0px 120px;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  font-size: 15pt;
+  padding: 5px;
+}
+
+#survey-form {
+  padding: 20px;
+  background-color: #2a3142;
+  opacity: 85%;
+}
+
+#name {
+  font-family: monospace;
+  font-size: 12pt;
+  width: 200px;
+}
+
+#email {
+  font-family: monospace;
+  font-size: 12pt;
+  width: 200px;
+}
+
+#number {
+  font-family: monospace;
+  font-size: 12pt;
+  width: 200px;
+}
+
+#dropdown {
+  font-family: monospace;
+  font-size: 12pt;
+  width: 200px;
+}
+
+#text {
+  font-family: monospace;
+  font-size: 12pt;
+  width: 500px;
+}
+
+#submit {
+  font-family: monospace;
+  font-size: 12pt;
+  height: 40px;
+  width: 100px;
+}
+
+#definitely1 {
+  font-size: 13pt;
+}
+
+#maybe1 {
+  font-size: 13pt;
+}
+
+#not-sure1 {
+  font-size: 13pt;
+}
+
+#Front-end-Projects1 {
+  font-size: 13pt;
+}
+
+#Back-end-Projects1 {
+  font-size: 13pt;
+}
+
+@media screen and (max-width: 480px) {
+  #main {
+    margin: 10px;
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 15pt;
+    padding: 5px;
+  }
+
+  #text {
+    font-family: monospace;
+    font-size: 12pt;
+    width: 200px;
+  }
+}
